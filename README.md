@@ -6,7 +6,6 @@ A kawaii-aesthetic, animated, Pinterest-inspired developer portfolio built with 
 
 🌸 Live Demo: https://kawaiifolio.vercel.app/
 
-🌙 Status: Actively Developed
 💗 Author: Sharmila Rapeti
 
 </div>
@@ -14,10 +13,10 @@ A kawaii-aesthetic, animated, Pinterest-inspired developer portfolio built with 
 
 KawaiiFolio is a personal portfolio designed to feel like a mix between:
 
-✨ Pinterest
-✨ Anime UI
-✨ Soft pastel productivity boards
-✨ SDE + AI/ML developer profile
+ Pinterest
+ Anime UI
+ Soft pastel productivity boards
+ SDE + AI/ML developer profile
 
 It includes a custom AI Chat Widget, cute floating elements, dynamic backgrounds, and smooth animations inspired by manga motion panels.
 
