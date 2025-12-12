@@ -25,19 +25,19 @@ It includes a custom AI Chat Widget, cute floating elements, dynamic backgrounds
 
 🎀 Aesthetic, kawaii-inspired UI
 
-💬 Custom AI Chat Widget with personality
+ Custom AI Chat Widget with personality
 
-🌟 Full React + TypeScript architecture
+ Full React + TypeScript architecture
 
-🎞️ Framer Motion animations
+ Framer Motion animations
 
-💗 Responsive layout for all screens
+ Responsive layout for all screens
 
-🎨 Sticker, pin, and doodle components
+ Sticker, pin, and doodle components
 
-⚡ Instant loads with Vite
+ Instant loads with Vite
 
-🖼️ Pinterest/manga-style visuals
+ Pinterest/manga-style visuals
 
 🛠️ Tech Stack
 <div align="center">
