@@ -2,7 +2,7 @@
 
 A kawaii-aesthetic, animated, Pinterest-inspired developer portfolio built with Vite + React + TypeScript.
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&color=FF7AC6&size=28&center=true&vCenter=true&width=700&lines=Welcome+to+KawaiiFolio!;A+Pastel+Anime+Style+Developer+Portfolio;Built+with+✨+Love+%2B+TypeScript+✨" /> <br/>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&color=FF7AC6&size=28&center=true&vCenter=true&width=700&lines=Welcome+to+KawaiiFolio!;A+Pastel+Pinterest+Style+Developer+Portfolio;Built+with+✨+Love+%2B+TypeScript+✨" /> <br/>
 
 🌸 Live Demo: https://kawaiifolio.vercel.app/
 
