@@ -10,7 +10,7 @@ A kawaii-aesthetic, animated, Pinterest-inspired developer portfolio built with 
 💗 Author: Sharmila Rapeti
 
 </div>
-🌈 Overview
+ Overview
 
 KawaiiFolio is a personal portfolio designed to feel like a mix between:
 
@@ -40,33 +40,14 @@ It includes a custom AI Chat Widget, cute floating elements, dynamic backgrounds
  Pinterest/manga-style visuals
 
 🛠️ Tech Stack
-<div align="center">
-Category	Technologies
-Frontend	React • TypeScript • Vite
-Styling	TailwindCSS • Custom pastel theme
-Animations	Framer Motion
-Deployment	Vercel
-Tooling	npm • tsconfig • modular components
-</div>
-🧩 Project Structure
-kawaiifolio/
- ├── assets/
- ├── components/
- │   ├── Background.tsx
- │   ├── ChatWidget.tsx
- │   ├── ContactForm.tsx
- │   ├── Pin.tsx
- │   ├── Sticker.tsx
- ├── services/
- │   └── Service.ts
- ├── App.tsx
- ├── index.tsx
- ├── constants.ts
- ├── metadata.json
- ├── vite.config.ts
- ├── tsconfig.json
- ├── types.ts
- └── README.md
+• Frontend	React 
+• TypeScript 
+• Vite
+• Styling	TailwindCSS 
+• Custom pastel theme
+• Animations	Framer Motion
+• Deployment	Vercel
+
 
 🚀 Getting Started
 1️⃣ Clone the Repo
@@ -83,7 +64,7 @@ npm run dev
 npm run build
 
 
-🧠 Roadmap
+ Roadmap
 
  Dark/Light mode toggle
 
@@ -102,7 +83,7 @@ npm run build
 Feel free to fork the repo and create pull requests!
 Ideas, designs, and kawaii UI improvements are always welcome 💗.
 
-📜 License
+ License
 
 This project is licensed under the MIT License — free to customize, modify, and build upon.
 
@@ -116,6 +97,6 @@ Writes poetry, builds space-inspired tech, and loves kawaii design 🌙
 
 If you like this portfolio:
 
-🌟 Star the repo
-🍥 Share it
+ Star the repo
+ Share it
 🎀 Fork and create your own version
