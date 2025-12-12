@@ -96,6 +96,6 @@ Writes poetry, builds space-inspired tech, and loves kawaii design 🌙
 
 If you like this portfolio:
 
- Star the repo
- Share it
+ Star the repo.
+ Share it.
 🎀 Fork and create your own version
